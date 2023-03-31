@@ -1,0 +1,15 @@
+.footer {
+  background-color: #d2dadb;
+  border-top: 3px solid #4d86e4;
+  color: #f8eeee;
+}
+
+.Icones{
+  
+  height: 4vh;
+  padding: 7px;
+  margin-right: 3px;
+  margin-left: 3px;
+  justify-content: center;
+
+}

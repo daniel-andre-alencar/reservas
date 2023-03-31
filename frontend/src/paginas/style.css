@@ -1,0 +1,153 @@
+.HomeBody {
+  border-color: black;
+  position: relative;
+    border: 10p;
+}
+
+body {
+  position: relative;
+  background-image: url(https://cdn.pixabay.com/photo/2017/06/04/18/14/marble-2371776_1280.jpg);
+
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+    background: #b5c7f8;
+  }
+
+  .background{
+  
+    background-color:207, 226, 243;
+    height: 900px; ;
+    width: 100;
+    
+
+  }
+
+  .cat {
+    position: relative;
+    height:200px
+  }
+
+  .imgcarrossel{
+    position: relative;
+    width: 1500px;
+    height: 800px;
+    
+
+
+  } 
+
+  .ggg{
+    display:contents ;
+  }
+
+  .imgcarrossel{
+    width: 1680px;
+    height: 600px;
+    display: inline;
+    border: none;
+    left: 50px;
+    
+
+    
+    
+  }
+
+  .car {
+
+    padding-left: 1px;
+  }
+
+
+  .card-img image{
+    width: 1680px;
+    height: 400px;
+    display: inline;
+    border: none;
+    left: 50px;
+    
+  }
+
+
+  .image{
+    width: 2150px;
+    height: 870px;
+
+  }
+
+.img{
+  width: 500px;
+  height: 550px;
+
+}
+.salasimg{
+  
+  position: absolute;
+margin-left: 800PX;
+  margin-bottom: 2px;
+  width: 500px;
+  height:250px;
+  border-radius: 20px;
+  justify-content: center;
+  
+
+}
+
+.nume{
+  margin: 20px;
+}
+
+.tipo{
+  margin-top: -40px;
+  margin-left: 45px;
+}
+
+.cap{
+margin-top: -20px;
+margin-left: -3px;
+
+}
+
+.val{
+margin-top: -18px;
+margin-left: 40px;
+
+}
+
+.desc{
+margin-top: -20px;
+margin-left: 5px;
+
+}
+.Func{
+
+  margin-left: 50px;
+  border-radius: 500px;
+ 
+  height: 200px;
+  height: 350px;
+}
+
+.GATO{
+  margin-left: 50px;
+  border-radius: 500px;
+ 
+  height: 200px;
+  height: 350px;
+}
+
+.GATA{
+  margin-left: 50px;
+  border-radius: 500px;
+ 
+  height: 200px;
+  height: 350px;
+}
+
+
+.GAT{
+  margin-left: 50px;
+  border-radius: 500px;
+  height: 200px;
+  height: 350px;
+}

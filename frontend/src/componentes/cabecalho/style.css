@@ -1,0 +1,23 @@
+.cabecalho{
+color: rgb(238, 180, 228);
+background-color: rgb(236, 181, 232);
+border:none;
+border-top: 2px solid #1265e0;
+}
+
+.buttolink {
+    color: antiquewhite;
+    left: 1000px;
+}
+
+.container-fluid {
+    left: 1000px;
+
+}
+
+.Logo{
+    width: 30px;
+    height: 30x;
+}
+
+
